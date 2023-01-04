@@ -1,7 +1,7 @@
 # Lets Start Interview Common Exam Question :-
 
 
-    *What do you understand by the universal sector?
+    <li>What do you understand by the universal sector?</li>
 
     *Differentiate between the use of ID selector and class selector.
 
